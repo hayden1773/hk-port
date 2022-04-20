@@ -19,7 +19,8 @@ THEN I am taken to that deployed application
 
 **mock up**
 
-
+![Getting Started](./Images/front.jpg)
+![Getting Started](./Images/bottom.jpg)
 
 
 
